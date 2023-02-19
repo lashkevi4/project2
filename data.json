@@ -1,41 +1,48 @@
 [
   {
-    "city": "spb",
+    "city": "Mikkeli",
     "place": "option 1",
-    "kitchen": "1",
-    "living": "1",
-    "bedroom": "3",
-    "balcony": "1",
-    "parking": "1",
-    "sauna": "1",
-    "swimming_pool": "1",
-    "wifi": "1",
-    "fireplace": "1"
+    "photos": [
+      "img1.png",
+      "img2.png",
+      "img3.png",
+      "img4.png",
+      "img5.png"
+    ],
+    "kitchen": [
+      "teapot",
+      "coffee",
+      "stove",
+      "refrigerator",
+      "freezer",
+      "toaster",
+      "microwave",
+      "dishwasher",
+      "High-chair"
+    ],
+    "living": [
+      "tv",
+      "iptv",
+      "games",
+      "fireplace",
+      "toys"
+    ],
+    "bedroom": [
+      "bed",
+      "bedsidetable",
+      "wardrobe",
+      "crib"
+    ],
+    "balcony": true,
+    "parking": true,
+    "sauna": true,
+    "wc": 2,
+    "swimming_pool": true,
+    "wifi": true,
+    "cam": true,
+    "deposit": true,
+    "bicycle": true,
+    "animal": true,
+    "price": "100 eur"
   },
-  {
-    "city": "spb",
-    "place": "option 2",
-    "kitchen": "1",
-    "living": "1",
-    "bedroom": "3",
-    "balcony": "1",
-    "parking": "1",
-    "sauna": "1",
-    "swimming_pool": "1",
-    "wifi": "1",
-    "fireplace": "1"
-  },
-  {
-    "city": "spb",
-    "place": "option 3",
-    "kitchen": "1",
-    "living": "1",
-    "bedroom": "3",
-    "balcony": "1",
-    "parking": "1",
-    "sauna": "1",
-    "swimming_pool": "1",
-    "wifi": "1",
-    "fireplace": "1"
-  }
 ]
