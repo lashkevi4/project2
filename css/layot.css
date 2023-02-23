@@ -1,0 +1,70 @@
+@font-face {
+  font-family: Roboto;
+  src: url(../fonts/Roboto/Roboto-Regular.ttf);
+
+  font-family: Roboto2;
+  src: url(../fonts/Roboto/Roboto-BlackItalic.ttf);
+
+}
+
+
+
+
+.search {
+  width: fit-content;
+  background-color: aqua;
+  margin: auto;
+  border: 0;
+
+}
+
+.search * {
+  width: 10vw;
+  height: 100px;
+  font-size: 30px;
+}
+
+main {
+  font-family: 'Roboto', sans-serif;
+  outline: solid 2px blue;
+  width: 60%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+section {
+  width: 30%;
+  outline: solid 1px green;
+}
+
+section h1 {
+  font-family: 'Roboto2', sans-serif;
+  font-weight: 800;
+  margin: 10px;
+  margin-left: 0;
+}
+
+section .discription {
+  margin-bottom: 5px;
+}
+
+section .bed {
+  margin-bottom: 5px;
+}
+
+section .price {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+section .price span {
+  font-weight: normal;
+}
+
+figure {
+  width: 100%;
+}
+
+figure img {
+  width: 100%;
+}
